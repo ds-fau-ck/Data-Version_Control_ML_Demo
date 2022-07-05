@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/TUCchkul/Data-Version_Control_ML_Demo
+Author: TUCchkul
+Author-email: kirticse.chakma869@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
